@@ -1,5 +1,5 @@
-# limited_streaming_service
-Modeling of a streaming service
+## limited_streaming_service
+Modeling of a limited streaming service
 
 The system is based on two types of videos: movies and series. Each video has the following characteristics:
 ID: Unique identifier of the video.
@@ -21,6 +21,5 @@ Inheritance concept
 Access modifiers.
 Method overloading and overwriting.
 Concept of polymorphism.
-Abstract classes and interfaces
-classifications. 
+Abstract classes and interfaces classifications. 
 
